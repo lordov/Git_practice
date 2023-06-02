@@ -18,7 +18,6 @@ handler.setLevel(logging.CRITICAL)
 
 formatter = logging.Formatter(FORMAT)
 handler.setFormatter(formatter)
-
 logger.addHandler(handler)
 
 
