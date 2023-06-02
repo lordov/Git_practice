@@ -33,7 +33,7 @@ class PriorityExc(Exception):
         self.message = message
         logger.critical(f'{self.head, self.message}')
 
-
+# New comment.
 class IdExc(Exception):
     '''
     Класс ошибки ID.В котором есть логирование,
