@@ -1,0 +1,8 @@
+
+
+
+*.ini
+/config.ini
+*.db
+*.log
+
